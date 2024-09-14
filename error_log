@@ -1,0 +1,1 @@
+[23-Mar-2023 13:44:44 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Auth\AuthenticatesUsers' not found in /home1/bigtrhhh/public_html/QrScanner/app/Http/Controllers/LoginController.php on line 24
